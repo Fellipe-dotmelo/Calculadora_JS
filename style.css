@@ -1,10 +1,14 @@
+body{
+  background: linear-gradient(to left,#2A8C82, #275950);
+}
+
 .calculadora {
   margin-top: 40px;
   border: solid 1px #ccc;
   padding: 20px;
   background-color: #13678A;
   border-radius: 10px;
-  box-shadow: 1px 1px 5px #c2c2c2;
+  box-shadow: 1px 1px 1px #c2c2c2;
 }
       
 .btn {
